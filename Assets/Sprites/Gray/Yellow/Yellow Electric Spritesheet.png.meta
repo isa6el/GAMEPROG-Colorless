@@ -1,0 +1,1105 @@
+fileFormatVersion: 2
+guid: 1dacde859ee34c447baf55a5626edab0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2471145109758960892
+    second: Yellow Electric Spritesheet_0
+  - first:
+      213: -5164624931249334755
+    second: Yellow Electric Spritesheet_1
+  - first:
+      213: -176732264743685102
+    second: Yellow Electric Spritesheet_2
+  - first:
+      213: -2614084520778058874
+    second: Yellow Electric Spritesheet_3
+  - first:
+      213: -6304233983854459618
+    second: Yellow Electric Spritesheet_4
+  - first:
+      213: 6488897890537378859
+    second: Yellow Electric Spritesheet_5
+  - first:
+      213: 5784201797948834098
+    second: Yellow Electric Spritesheet_6
+  - first:
+      213: 8547502911393941932
+    second: Yellow Electric Spritesheet_7
+  - first:
+      213: 6138872906792628784
+    second: Yellow Electric Spritesheet_8
+  - first:
+      213: 8482176261320606512
+    second: Yellow Electric Spritesheet_9
+  - first:
+      213: 4132172783945056607
+    second: Yellow Electric Spritesheet_10
+  - first:
+      213: 1461985407636618806
+    second: Yellow Electric Spritesheet_11
+  - first:
+      213: -8106538145284602640
+    second: Yellow Electric Spritesheet_12
+  - first:
+      213: 3085917191364684157
+    second: Yellow Electric Spritesheet_13
+  - first:
+      213: -5670625875277174831
+    second: Yellow Electric Spritesheet_14
+  - first:
+      213: -8610781451069057051
+    second: Yellow Electric Spritesheet_15
+  - first:
+      213: -2528551700809937230
+    second: Yellow Electric Spritesheet_16
+  - first:
+      213: 4599030779794568812
+    second: Yellow Electric Spritesheet_17
+  - first:
+      213: -1198145080297042531
+    second: Yellow Electric Spritesheet_18
+  - first:
+      213: 379069342064928538
+    second: Yellow Electric Spritesheet_19
+  - first:
+      213: 6319584327536443298
+    second: Yellow Electric Spritesheet_20
+  - first:
+      213: -9167884852210228598
+    second: Yellow Electric Spritesheet_21
+  - first:
+      213: 168554702670674643
+    second: Yellow Electric Spritesheet_22
+  - first:
+      213: 8969244652478284987
+    second: Yellow Electric Spritesheet_23
+  - first:
+      213: 582541810976527592
+    second: Yellow Electric Spritesheet_24
+  - first:
+      213: -9185294411544172776
+    second: Yellow Electric Spritesheet_25
+  - first:
+      213: 5095242784378938512
+    second: Yellow Electric Spritesheet_26
+  - first:
+      213: 1223658501498712062
+    second: Yellow Electric Spritesheet_27
+  - first:
+      213: -3195889769980814812
+    second: Yellow Electric Spritesheet_28
+  - first:
+      213: 8569729638804050198
+    second: Yellow Electric Spritesheet_29
+  - first:
+      213: -8558785264899120740
+    second: Yellow Electric Spritesheet_30
+  - first:
+      213: -5052748830668476999
+    second: Yellow Electric Spritesheet_31
+  - first:
+      213: -5050930648246573370
+    second: Yellow Electric Spritesheet_32
+  - first:
+      213: -6869141587554858949
+    second: Yellow Electric Spritesheet_33
+  - first:
+      213: -1963002624521897764
+    second: Yellow Electric Spritesheet_34
+  - first:
+      213: 6770050168874334872
+    second: Yellow Electric Spritesheet_35
+  - first:
+      213: -8137807543807616027
+    second: Yellow Electric Spritesheet_36
+  - first:
+      213: 7359749750978604484
+    second: Yellow Electric Spritesheet_37
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Yellow Electric Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: 723
+        width: 104
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40b9f588d9ab4bdd0800000000000000
+      internalID: -2471145109758960892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Electric Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 2446
+        y: 707
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d16d1c60df09358b0800000000000000
+      internalID: -5164624931249334755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Electric Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 3376
+        y: 683
+        width: 68
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2143a9b01fe1c8df0800000000000000
+      internalID: -176732264743685102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Electric Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 3564
+        y: 682
+        width: 71
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6833d267af7e8bbd0800000000000000
+      internalID: -2614084520778058874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Electric Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 1436
+        y: 616
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e15c86bc79cd288a0800000000000000
+      internalID: -6304233983854459618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Electric Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 1651
+        y: 619
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b24134570423d0a50800000000000000
+      internalID: 6488897890537378859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Electric Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 3434
+        y: 583
+        width: 43
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2318ae3a3ec954050800000000000000
+      internalID: 5784201797948834098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Electric Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 4291
+        y: 642
+        width: 73
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca9c04e7c94de9670800000000000000
+      internalID: 8547502911393941932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Electric Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 4672
+        y: 643
+        width: 61
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 032f4a23268a13550800000000000000
+      internalID: 6138872906792628784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Electric Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 573
+        width: 79
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03304428e5eb6b570800000000000000
+      internalID: 8482176261320606512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Electric Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 2469
+        y: 618
+        width: 55
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f510599f04d685930800000000000000
+      internalID: 4132172783945056607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Electric Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 4440
+        y: 613
+        width: 71
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63e3cf87bf30a4410800000000000000
+      internalID: 1461985407636618806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Electric Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 4720
+        y: 628
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f44824d18acf7f80800000000000000
+      internalID: -8106538145284602640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Electric Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 584
+        width: 48
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d79209de55163da20800000000000000
+      internalID: 3085917191364684157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Electric Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 2601
+        y: 506
+        width: 40
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d727f98fc3ed41b0800000000000000
+      internalID: -5670625875277174831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Electric Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 520
+        width: 43
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e7918264eb508880800000000000000
+      internalID: -8610781451069057051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Electric Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 493
+        width: 20
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2be830dff97c8ecd0800000000000000
+      internalID: -2528551700809937230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Electric Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 3609
+        y: 510
+        width: 71
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c663eb4a02a03df30800000000000000
+      internalID: 4599030779794568812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Electric Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 3719
+        y: 469
+        width: 39
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9d4383c5655f5fe0800000000000000
+      internalID: -1198145080297042531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Electric Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 450
+        width: 36
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a176507ee89b24500800000000000000
+      internalID: 379069342064928538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Electric Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 412
+        width: 46
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2af7fea967ca3b750800000000000000
+      internalID: 6319584327536443298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Electric Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 2283
+        y: 484
+        width: 75
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a82235aec4125c080800000000000000
+      internalID: -9167884852210228598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Electric Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 3274
+        y: 415
+        width: 65
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3da38e9eb93d65200800000000000000
+      internalID: 168554702670674643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Electric Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 4382
+        y: 430
+        width: 60
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb44a868d78297c70800000000000000
+      internalID: 8969244652478284987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Electric Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 339
+        width: 59
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e4911ec0ba951800800000000000000
+      internalID: 582541810976527592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Electric Spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 2581
+        y: 401
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81767820667478080800000000000000
+      internalID: -9185294411544172776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Electric Spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 2691
+        y: 392
+        width: 38
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 094674f0150f5b640800000000000000
+      internalID: 5095242784378938512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Electric Spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 3565
+        y: 449
+        width: 39
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: effa7348cee4bf010800000000000000
+      internalID: 1223658501498712062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Electric Spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 3681
+        y: 430
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42a1dfecf2be5a3d0800000000000000
+      internalID: -3195889769980814812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Electric Spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 4593
+        y: 403
+        width: 49
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6115d0eb3bbcde670800000000000000
+      internalID: 8569729638804050198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Electric Spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 375
+        width: 65
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9127d0e526193980800000000000000
+      internalID: -8558785264899120740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Electric Spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 2425
+        y: 387
+        width: 85
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bd2cb885b701e9b0800000000000000
+      internalID: -5052748830668476999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Electric Spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 3471
+        y: 349
+        width: 39
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c6212e165d77e9b0800000000000000
+      internalID: -5050930648246573370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Electric Spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 3702
+        y: 378
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b380ee1de18eba0a0800000000000000
+      internalID: -6869141587554858949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Electric Spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 4332
+        y: 383
+        width: 26
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd87630738302c4e0800000000000000
+      internalID: -1963002624521897764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Electric Spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 302
+        width: 67
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89af35362cc04fd50800000000000000
+      internalID: 6770050168874334872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Electric Spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 3436
+        y: 295
+        width: 116
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eb5ad4a723b01f80800000000000000
+      internalID: -8137807543807616027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Electric Spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 4367
+        y: 326
+        width: 46
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cd69d6a765132660800000000000000
+      internalID: 7359749750978604484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Yellow Electric Spritesheet_0: -2471145109758960892
+      Yellow Electric Spritesheet_1: -5164624931249334755
+      Yellow Electric Spritesheet_10: 4132172783945056607
+      Yellow Electric Spritesheet_11: 1461985407636618806
+      Yellow Electric Spritesheet_12: -8106538145284602640
+      Yellow Electric Spritesheet_13: 3085917191364684157
+      Yellow Electric Spritesheet_14: -5670625875277174831
+      Yellow Electric Spritesheet_15: -8610781451069057051
+      Yellow Electric Spritesheet_16: -2528551700809937230
+      Yellow Electric Spritesheet_17: 4599030779794568812
+      Yellow Electric Spritesheet_18: -1198145080297042531
+      Yellow Electric Spritesheet_19: 379069342064928538
+      Yellow Electric Spritesheet_2: -176732264743685102
+      Yellow Electric Spritesheet_20: 6319584327536443298
+      Yellow Electric Spritesheet_21: -9167884852210228598
+      Yellow Electric Spritesheet_22: 168554702670674643
+      Yellow Electric Spritesheet_23: 8969244652478284987
+      Yellow Electric Spritesheet_24: 582541810976527592
+      Yellow Electric Spritesheet_25: -9185294411544172776
+      Yellow Electric Spritesheet_26: 5095242784378938512
+      Yellow Electric Spritesheet_27: 1223658501498712062
+      Yellow Electric Spritesheet_28: -3195889769980814812
+      Yellow Electric Spritesheet_29: 8569729638804050198
+      Yellow Electric Spritesheet_3: -2614084520778058874
+      Yellow Electric Spritesheet_30: -8558785264899120740
+      Yellow Electric Spritesheet_31: -5052748830668476999
+      Yellow Electric Spritesheet_32: -5050930648246573370
+      Yellow Electric Spritesheet_33: -6869141587554858949
+      Yellow Electric Spritesheet_34: -1963002624521897764
+      Yellow Electric Spritesheet_35: 6770050168874334872
+      Yellow Electric Spritesheet_36: -8137807543807616027
+      Yellow Electric Spritesheet_37: 7359749750978604484
+      Yellow Electric Spritesheet_4: -6304233983854459618
+      Yellow Electric Spritesheet_5: 6488897890537378859
+      Yellow Electric Spritesheet_6: 5784201797948834098
+      Yellow Electric Spritesheet_7: 8547502911393941932
+      Yellow Electric Spritesheet_8: 6138872906792628784
+      Yellow Electric Spritesheet_9: 8482176261320606512
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
