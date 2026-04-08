@@ -76,6 +76,9 @@ public class PlayerController : MonoBehaviour
         float animationMoveSpeed = Mathf.Abs(horizontalInput);
         animator.SetFloat("moveSpeed", animationMoveSpeed);
 
+        // ADDED: Tell the animator if we are on the ground
+        animator.SetBool("isGrounded", IsGrounded());
+
         if (Input.GetKeyDown(KeyCode.Space))
         {
             isJumpInput = true;
